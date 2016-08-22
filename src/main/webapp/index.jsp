@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I love Cloud Foundry</h2>
+<h2>Hello Cloud foundry</h2>
 </body>
 </html>
